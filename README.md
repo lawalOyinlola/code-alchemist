@@ -5,9 +5,10 @@
 I'm Software Engineer, with intermediate skills. I'm passionate about staying up-to-date with the latest tools and techniques in the tech industry. Alongside this, I am focused on fostering connections with like-minded individuals, as I strive to build a successful careeer. 
 
 - 👨🏽 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: Certified by AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
+- 🌱 I build with JavaScript(React.js, Vue.js) HTML, CSS .
+- 🌱 I'm developing, learning languages and framework such as Python, php, Laravel...
+- 😊 I’m looking to contribute to open source projects, and work on hackathons.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing [oyinlolalawal1705@gmail.com](mailto:oyinlolalawal1705@gmail.com).
 
